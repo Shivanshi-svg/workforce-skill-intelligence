@@ -1,0 +1,7 @@
+{
+  "ai_engineer": ["python", "machine learning", "llm", "rag", "fastapi", "docker", "mlops", "git"],
+  "data_engineer": ["python", "sql", "data engineering", "apache spark", "azure", "ci/cd", "git"],
+  "backend_developer": ["python", "rest apis", "sql", "docker", "software testing", "git", "ci/cd"],
+  "data_analyst": ["sql", "excel", "power bi", "statistics", "communication"],
+  "engineering_manager": ["people management", "project management", "stakeholder management", "communication"]
+}

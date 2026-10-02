@@ -1,0 +1,38 @@
+skill,category,aliases
+python,programming,python3|py
+sql,data,postgresql|mysql|t-sql
+java,programming,
+javascript,programming,js|node.js|nodejs
+typescript,programming,ts
+c#,programming,csharp|.net|dotnet
+react,frontend,react.js|reactjs
+html/css,frontend,html|css|css3|html5
+rest apis,backend,rest api|restful|api integration
+fastapi,backend,
+docker,devops,containers|containerization
+kubernetes,devops,k8s
+ci/cd,devops,github actions|azure devops|jenkins|continuous integration
+git,devops,github|gitlab
+aws,cloud,amazon web services|s3|ec2
+azure,cloud,azure synapse|azure data factory|adf
+gcp,cloud,google cloud
+data engineering,data,etl|data pipelines|data pipeline
+apache spark,data,spark|pyspark|databricks
+power bi,analytics,powerbi
+excel,analytics,spreadsheets|vlookup
+statistics,analytics,statistical analysis|hypothesis testing
+machine learning,ml,ml|scikit-learn|sklearn|classification|regression
+deep learning,ml,neural networks|pytorch|tensorflow
+nlp,ml,natural language processing|text classification|sentiment analysis
+llm,genai,large language models|llms|openai api|prompt engineering
+rag,genai,retrieval augmented generation|retrieval-augmented generation|vector search
+langchain,genai,llamaindex
+computer vision,ml,opencv|image processing|object detection
+mlops,ml,mlflow|model deployment|model monitoring
+power automate,low-code,power platform|copilot studio
+project management,management,scrum|agile|jira|sprint planning
+stakeholder management,management,client communication|stakeholder communication
+people management,management,team lead|mentoring|line management
+communication,soft,presentation skills|public speaking
+software testing,quality,pytest|unit testing|test automation|selenium
+cybersecurity,security,infosec|penetration testing|iam
